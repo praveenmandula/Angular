@@ -1,0 +1,5 @@
+1.Install node.js from net
+2.npm install -g @angular/cli
+3.ng new my-dream-app
+4.cd my-dream-app
+5.ng serve --open
